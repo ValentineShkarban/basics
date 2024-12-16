@@ -10,7 +10,6 @@ repositories {
 }
 
 dependencies {
-dependencies {
     testImplementation 'org.testng:testng:7.1.0'
 }
 
